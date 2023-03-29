@@ -9,4 +9,4 @@
 <img alt='Scikit-Learn' src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=M-Firm2002&show_icons=true&theme=default"/>
-<img align='left' width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Firm2002&layout=compact"/>
+<img align='left' width='44%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Firm2002&layout=compact"/>
