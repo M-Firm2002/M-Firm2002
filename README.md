@@ -10,7 +10,7 @@
 ## About Me
 *`Software Developer | Web Developer`*
 
-I am software developer based in the UK. My main focuses are cyber security and machine learning. However, I do enjoy web and app development in my free time. In 2023, I graduated from the University of Essex with a bachelor degree in computer science and my goal for the future is career in either cyber security or software engineering. My greatest achievement was my dissertation on machine learning for network security; which I recieved a first class honour for. Currently, I am working on some small projects while I look for work. Some of these projects include a python-based encryption system and a portfolio website. These projects can/will be found on this GitHub profile.  
+I am a software developer based in the UK. My main focuses are cyber security and machine learning. However, I do enjoy web and app development in my free time. In 2023, I graduated from the University of Essex with a bachelor degree in computer science and my goal for the future is career in either cyber security or software engineering. My greatest achievement was my dissertation on machine learning for network security; which I recieved a first class honour for. Currently, I am working on some small projects while I look for work. Some of these projects include a python-based encryption system and a portfolio website. These projects can/will be found on this GitHub profile.  
 
 In this README, you will find a variety of information about my GitHub activity. This information includes recommended repositories, GitHub statistics, and my most used programming languages...  
   
